@@ -17,12 +17,12 @@
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Gradle: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1" />
-          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
-          <element id="library" level="project" name="Gradle: com.sun.faces:jsf-api:2.2.14" />
-          <element id="library" level="project" name="Gradle: com.sun.faces:jsf-impl:2.2.14" />
-          <element id="library" level="project" name="Gradle: org.primefaces.themes:all-themes:1.0.10" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-api/2.2.14/8c736979a53c8f6bbc433c4871e87502e0b8a9a4/jsf-api-2.2.14.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-impl/2.2.14/638282929a4f01cb0cd327fde5c1fc9b7a286f96/jsf-impl-2.2.14.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1/f072f63ab1689e885ac40c221df3e6bb3e64a84a/javax.servlet.jsp.jstl-api-1.2.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
           <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.primefaces/primefaces/6.0/afb1b80868bf9b5ad88a810e070d70aaac929cc7/primefaces-6.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.primefaces.themes/all-themes/1.0.10/341df9500861747f174500d7d912ec6f6ff80824/all-themes-1.0.10.jar" />
         </element>
       </element>
     </root>
